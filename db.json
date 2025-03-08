@@ -1,0 +1,12 @@
+{
+    "data": {
+        "array": ["test", "test2"],
+        "goods": [
+            {
+                "id".  : "123",
+                "price": "100",
+                "unity": "кг"
+            }
+        ]
+    }
+}
